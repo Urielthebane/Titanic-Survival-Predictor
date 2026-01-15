@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: titanic-survival-predictor
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app.app:app
+    autoDeploy: true
