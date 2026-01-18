@@ -186,7 +186,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run Flask App Locally
 ```bash
-python app/app.py
+python app.py
 ```
 
 Open browser at:
