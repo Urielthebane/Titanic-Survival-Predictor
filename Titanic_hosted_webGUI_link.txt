@@ -1,0 +1,11 @@
+Name : Akinmusire Oluwankorinola E.
+
+Matric Number : 250000512
+
+Machine Learning Algorithm Used : Logistic Regression
+
+Model persistence method used : Pickle
+
+Live URL of the hosted application : https://titanic-survival-predictor-1-ddof.onrender.com
+
+GitHub repository link : https://github.com/Urielthebane/Titanic-Survival-Predictor
